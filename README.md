@@ -8,6 +8,7 @@
 - KoopshiKingGeoshi
 - MysticalCatlife (owner of this repository)
 - Nintendo (owner of the Super Mario franchise)
+- PixelMarioXP
 - Smuglutena
 - SuperSledgeBro
 - Vanny
