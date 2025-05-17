@@ -9,6 +9,7 @@
 - MysticalCatlife (owner of this repository)
 - Nintendo (owner of the Super Mario franchise)
 - PixelMarioXP
+- Sednaiur
 - Smuglutena
 - SuperSledgeBro
 - Vanny
