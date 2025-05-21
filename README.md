@@ -6,8 +6,10 @@
 - Hot Cross Bun
 - JazzmanZ
 - KoopshiKingGeoshi
+- MasterDarkar
 - MysticalCatlife (owner of this repository)
 - Nintendo (owner of the Super Mario franchise)
+- P-Tux7
 - PixelMarioXP
 - Sednaiur
 - Smuglutena
