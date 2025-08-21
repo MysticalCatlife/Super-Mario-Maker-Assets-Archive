@@ -1,5 +1,16 @@
 # CURRENTLY UNDER CONSTRUCTION!
 
+# Supported Themes
+- Super Mario Bros. (NES)
+- Super Mario Bros. All-Stars (Super NES)
+- Super Mario Bros. 2 (NES)
+- Super Mario Bros. 2 All-Stars (Super NES)
+- Super Mario Bros. 3
+- Super Mario Bros. 3 All-Stars (Super NES)
+- Super Mario World (Super NES)
+- Super Mario Land 2 (Game Boy)
+- Super Mario World 2: Yoshi's Island (Super NES)
+
 # Credits + Included Contributions
 - Cloug (Spriters Resource)
 - Cruise Elroy (Mario Fan Games Galaxy)
