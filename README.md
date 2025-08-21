@@ -5,8 +5,8 @@
 # Supported Asset Types
 - Backgrounds
 - Enemies
-- Players
-- Tilesets
+- Players (including Power-Ups and Costumes)
+- Tilesets (including Scenery)
 
 # Supported Themes
 - Super Mario Bros. (NES)
