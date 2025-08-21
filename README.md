@@ -5,7 +5,6 @@
 # Supported Asset Types
 - Backgrounds
 - Enemies
-- Items
 - Players
 - Tilesets
 
