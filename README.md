@@ -1,6 +1,6 @@
 # Premise
-A public archive of sprites based on the assets offered from Super Mario Maker and subsequent sequels. Can be used for most projects and/or fan games (ensure to credit the team contributors listed below).
-Super Mario Bros. is courtesy of Nintendo (no infringement intended)
+- A public archive of sprites based on the assets offered from Super Mario Maker and subsequent sequels. Can be used for most projects and/or fan games (ensure to credit the team contributors listed below).
+- Super Mario Bros. is courtesy of Nintendo (no infringement intended)
 
 # Supported Themes
 - Super Mario Bros. (NES)
