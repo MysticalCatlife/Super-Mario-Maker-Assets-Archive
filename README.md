@@ -20,11 +20,11 @@
 - Super Mario World 2: Yoshi's Island (Super NES)
 
 # Credits + Included Contributions
+- [Geoshi](https://www.spriters-resource.com/profile/geoshi/)
 - [JazzManZ](https://www.spriters-resource.com/profile/omega/)
-- KoopshiKingGeoshi (Mario Fan Games Galaxy)
 - MysticalCatlife (owner of this repository)
 - Nintendo (owner of the Super Mario franchise)
-- Sednaiur (Super Mario Bros. X)
-- SuperSledgeBro (Mario Fan Games Galaxy)
+- Sednaiur
+- [SuperSledgeBro](https://www.spriters-resource.com/profile/supersledgebro/)
 
 If you are a listed sprite author and do not wish for your work to be included and/or used to any extent here, you're more than welcome to inform us and we may redact and replace your work.
