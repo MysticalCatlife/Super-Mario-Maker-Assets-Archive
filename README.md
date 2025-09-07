@@ -20,6 +20,7 @@
 - Super Mario World 2: Yoshi's Island (Super NES)
 
 # Credits + Included Contributions
+- JazzManZ (Spriters Resource)
 - KoopshiKingGeoshi (Mario Fan Games Galaxy)
 - MysticalCatlife (owner of this repository)
 - Nintendo (owner of the Super Mario franchise)
