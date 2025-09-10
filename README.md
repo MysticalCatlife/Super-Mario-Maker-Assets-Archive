@@ -21,7 +21,7 @@
 
 # Credits + Included Contributions
 - [Geoshi](https://www.spriters-resource.com/profile/geoshi/)
-- [JazzManZ](https://www.spriters-resource.com/profile/omega/)
+- [JazzmanZ](https://www.spriters-resource.com/profile/omega/)
 - MysticalCatlife (owner of this repository)
 - Nintendo (owner of the Super Mario franchise)
 - Sednaiur
